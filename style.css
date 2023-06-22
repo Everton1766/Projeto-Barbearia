@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url(https://img.freepik.com/fotos-gratis/feche-os-produtos-de-autocuidado-do-homem_23-2149313016.jpg?w=1060&t=st=1687451885~exp=1687452485~hmac=cde76a957814c879c77afbcc0885f7fe51813d5f49e2bab0d6bb89b81e2661da);        
+    background-size: cover;    
+}
+
+header {
+    text-align: right;
+    margin: 20px;
+    padding: 20px;
+}
+
+a {
+    color: #b5e2fa;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.button-orange{
+    background-color: #FBB024;
+    color: black;
+    font-weight: bold;
+    height: 2.8rem;
+    width: 8.5rem;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+}
+ 
+.container {
+    position: absolute;
+    margin-left: 5rem;
+    margin-bottom: 5rem;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    padding: 35px;
+    width: 33rem;
+    margin-top: 300px;
+}
+
+h3 {
+    color: #FBB024;
+    font-size: 0.8rem;
+    font-weight: 200;
+}
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #fa003f;
+}
+
+p {
+    color: #f37748;    
+    font-weight: 300;
+    font-size: 1.25rem;
+    width: 25rem;
+}
+
+.button-low {
+    background-color: #FBB024;
+    color: black;
+    font-weight: bold;
+    height: 2.8rem;
+    width: 8.5rem;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    margin-right: 20px;
+
+}
+
+.button {
+    background-color: transparent;
+    color: #fff;
+    font-weight: bold;
+    height: 2.8rem;
+    width: 8.5rem;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px solid#cccccc;
+    margin-right: 20px;
+}
