@@ -1,4 +1,4 @@
-# Projeto-Barbearia
+# Projeto Responsivo de uma landing-page de Barbearia
 <br>
 <h2>tecnologias usadas </h2>
 <br>
