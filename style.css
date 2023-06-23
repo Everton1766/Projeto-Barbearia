@@ -5,15 +5,18 @@
     font-family: 'Roboto', sans-serif;
 }
 
-body {
-    background-image: url(https://img.freepik.com/fotos-gratis/feche-os-produtos-de-autocuidado-do-homem_23-2149313016.jpg?w=1060&t=st=1687451885~exp=1687452485~hmac=cde76a957814c879c77afbcc0885f7fe51813d5f49e2bab0d6bb89b81e2661da);        
-    background-size: cover;    
+img {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    margin-top: 0;
+    
 }
 
 header {
-    text-align: right;
-    margin: 20px;
-    padding: 20px;
+    text-align: right;    
+    padding: 30px;
+    position: relative;
 }
 
 a {
@@ -35,6 +38,7 @@ a {
     font-size: 20px;
     cursor: pointer;
     border: none;
+    margin-right: 40px;
 }
  
 .container {
