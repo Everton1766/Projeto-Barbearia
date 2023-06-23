@@ -167,6 +167,12 @@ p {
 }
 @media screen and (max-width:460px) {
 
+    img {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        margin-top: 0;
+
     h3 {
         color: #FBB024;
         font-size: 0.8rem;
